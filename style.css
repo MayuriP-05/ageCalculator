@@ -1,0 +1,48 @@
+*{
+    padding: o;
+    margin: P;box-sizing: border-box;
+}
+.container{
+    width: 600px;
+    height: 300px;
+    margin: 50px auto ;
+   
+    box-shadow: 0px 0px 4px;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    padding: 20px 0;
+   
+}
+h1{
+    margin: 0;
+    font-size:2.4rem;
+}
+label{
+font-size: 1.2rem;
+font-weight: 600;
+padding: 10px 0;
+margin: 5px 0;
+}
+input{
+    font-size: 1.05rem;
+    width: 50%;
+    padding: 6px 3px;
+ margin-bottom: 20px;
+}
+button{
+    background-color: rgb(37, 78, 192);
+    color: white;
+    border: none;
+    border-radius: .5rem;
+    padding: 10px 10px;
+margin-bottom: -10px;
+}
+.result{
+    
+}
+#age{
+    font-size: 1.9rem;
+    font-weight: 500;
+}
